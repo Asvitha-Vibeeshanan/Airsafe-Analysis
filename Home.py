@@ -77,9 +77,9 @@ Users can navigate through different sections to analyze trends in **delays, cra
 # Group Information with LinkedIn Links
 st.markdown("### 👨‍💻 Our Team")
 st.markdown("""
+- [**Asvitha Vibeeshanan**](https://www.linkedin.com/in/asvitha-vibeeshanan-566479185/)
 - [**Mugilan Thiyagarajan**](https://www.linkedin.com/in/mugilan-t-598a2b208/)  
 - [**Prakathesh KS**](http://www.linkedin.com/in/prakathesh-k-s-5a43a5183)  
-- [**Asvitha Vibeeshanan**](https://www.linkedin.com/in/asvitha-vibeeshanan-566479185/)  
 - [**Kalai Arasi**](http://www.linkedin.com/in/kalaiarasijayakumar99)  
 """, unsafe_allow_html=True)
 
